@@ -107,14 +107,14 @@ body {
 
 }
 
-.humidity {
+.humidity-row {
     display: flex;
     flex-direction: row;
     align-items: center;
     gap: 10px;
 }
 
-.wind {
+.wind-sec {
     display: flex;
     flex-direction: row;
     align-items: center;
